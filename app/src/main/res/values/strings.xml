@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pointless Button App</string>
+    <string name="welcomeText">Welcome to the Pointless Button App</string>
+    <string name="button1">I\'m a button!</string>
+    <string name="button2">I am also a button!</string>
+    <string name="button3">Me too!</string>
+    <string name="tapCounter">0</string>
+    <string name="tapCounterText">"Button Taps: "</string>
+    <string name="resetButton">Reset Tap Counter</string>
+</resources>
